@@ -9,9 +9,7 @@ int main(void)
 	int b;
 	long int c;
 	long long int x;
-	float y:
-int main (void)
-{
+	float y;
 printf("size of a char:%lu\n",(Unsigned long)sizeof(a));
 printf("size of a int:%lu\n",(Unsigned long)sizeof(b));
 printf("size of a long int:%lu\n",(Unsigned long)sizeof(c));
