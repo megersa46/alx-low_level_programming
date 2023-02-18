@@ -1,0 +1,21 @@
+#include <stdio.h>
+/**
+ * main -A program that print different size types of output
+ * Return: 0 (success)
+ */
+int main(void)
+{
+	char a;
+	int b;
+	long int c;
+	long long int x;
+	float y:
+int main (void)
+{
+printf("size of a char:%lu\n",(Unsigned long)sizeof(a));
+printf("size of a int:%lu\n",(Unsigned long)sizeof(b));
+printf("size of a long int:%lu\n",(Unsigned long)sizeof(c));
+printf("size of a long long int x:%lu\n",(Unsigned long)sizeof(x));
+printf("size of a float:%lu\n",(Unsigned long)sizeof(y));
+return 0;
+}
