@@ -3,7 +3,7 @@
  * print_alphabet - prints the english alphabet from a-z.
  * Return: Nothing.
  */
-int print_alphabet(void)
+void print_alphabet(void)
 {
 	char i;
 
@@ -11,5 +11,5 @@ int print_alphabet(void)
 	{
 		_putchar(i);
 	}
-	return (0);
+	_putchar('\n');
 }
