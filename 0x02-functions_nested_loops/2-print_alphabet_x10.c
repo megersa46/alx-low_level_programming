@@ -2,6 +2,7 @@
 
 /**
  * print_alphabet_x10 - prints 10 times the alphabet
+ *
  * Return: Nothing
  */
 void print_alphabet_x10(void)
@@ -9,9 +10,9 @@ void print_alphabet_x10(void)
 	char i;
 	int j;
 
-	for(j = 0; j <= 9; j++)
+	for (j = 0; j <= 9; j++)
 	{
-		for(i = 'a'; i <= 'z'; i++)
+		for (i = 'a'; i <= 'z'; i++)
 		{
 			_putchar(i);
 		}
