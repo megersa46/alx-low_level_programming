@@ -1,1 +1,1 @@
-This is first C progroming task
+this program C project tsask
